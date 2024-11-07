@@ -1,6 +1,7 @@
 # Тестовое задание для Mixvel
 
 ### Демо
+https://github.com/user-attachments/assets/133b9656-4130-4da9-9601-4d89eaddcb70
 
 ### Разворот проекта
 
